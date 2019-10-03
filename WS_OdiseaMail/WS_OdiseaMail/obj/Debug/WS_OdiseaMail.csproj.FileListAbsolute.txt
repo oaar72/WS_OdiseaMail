@@ -1,0 +1,6 @@
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\obj\Debug\WS_OdiseaMail.csprojResolveAssemblyReference.cache
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\bin\WS_OdiseaMail.dll.config
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\bin\WS_OdiseaMail.dll
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\bin\WS_OdiseaMail.pdb
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\obj\Debug\WS_OdiseaMail.dll
+C:\Users\VB10\Source\Repos\WS_OdiseaMail\WS_OdiseaMail\WS_OdiseaMail\obj\Debug\WS_OdiseaMail.pdb
